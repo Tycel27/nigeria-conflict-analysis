@@ -60,3 +60,11 @@ UCDP best fatality estimates represent the most likely event-level estimates; th
 
 - Power BI report: interactive dashboard.
 - SQL script: database queries used for the analysis.
+
+## Dashboard previews
+
+![Overview](./Overview%20record.JPG)
+
+![Conflict profile](./Conflict%20Profile.JPG)
+
+![Geographical distribution](./Geographical%20distribution.JPG)
