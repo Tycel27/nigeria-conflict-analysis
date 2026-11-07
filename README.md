@@ -58,8 +58,11 @@ UCDP best fatality estimates represent the most likely event-level estimates; th
 
 ## Project files
 
-- Power BI report: interactive dashboard.
-- SQL script: database queries used for the analysis.
+- **Power BI report (.pbix):** Interactive dashboard of events, fatalities, conflict profiles, and geographic patterns.
+- **SQL script (.sql):** Queries used to analyze the data.
+- **Excel preparation workbook (.xlsx):** Workbook used during data review and preparation.
+- **Cleaned Nigeria dataset (.csv):** Nigeria records prepared for the analysis.
+- **Dashboard screenshots:** Previews of the report pages are shown above.
 
 ## Dashboard previews
 
